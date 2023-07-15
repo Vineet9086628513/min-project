@@ -1,4 +1,4 @@
-##Samsung India Front Page Clone
+<h1>Samsung India Front Page Clone</h1>
 This repository contains a clone of the Samsung India front page, recreated using HTML and CSS. 
 The purpose of this clone is to practice the layout and design of the  Samsung India website,
 providing a close representation of its appearance and functionality.
