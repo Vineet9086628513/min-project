@@ -20,5 +20,5 @@ You can explore a live demo of the Samsung India Front Page Clone by visiting th
 <h1>Contact:</h1>
 For any inquiries, feedback.
 
-Author: Vineet kattal
-Email: vineet96821@gmail.com
+<h4>Author:</h4> Vineet kattal
+<h4>Email:</h4> vineet96821@gmail.com
